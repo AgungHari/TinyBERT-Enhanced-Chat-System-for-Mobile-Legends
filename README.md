@@ -120,7 +120,7 @@ this is the performance of my laptop during model training.
 
 ## Result
 
-At this moment, the results I have obtained are quite satisfying with the following outcomes:
+The results I have obtained are quite satisfying with the following outcomes (note that this project is still in development) :
 
 Accuracy: 0.90118
 
