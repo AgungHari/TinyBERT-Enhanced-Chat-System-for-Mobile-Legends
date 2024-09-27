@@ -9,7 +9,7 @@ This project is still under development and is expected to be completed more qui
 ![Demo](https://github.com/user-attachments/assets/4c92c786-2bb0-44bc-a636-264508bf5aab)
 
 
-## Installation
+## 🔨 Installation
 
 PyPi version
 
@@ -137,5 +137,5 @@ F1-score: 0.8861208356918333
 
 ## Authors
 
-- [@AgungHari](https://github.com/AgungHari)
+<img alt="Static Badge" src="https://img.shields.io/badge/AgungHari-black?style=social&logo=github&link=https%3A%2F%2Fgithub.com%2FAgungHari">
 
