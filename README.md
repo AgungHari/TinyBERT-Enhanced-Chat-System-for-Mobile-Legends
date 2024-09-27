@@ -13,6 +13,10 @@ This project is still under development and is expected to be completed more qui
 
 PyPi version
 
+![IPyKernel version](https://img.shields.io/badge/IPyKernel-v6.29.4-yellow)
+![Pandas version](https://img.shields.io/badge/pandas-v2.2.3-black)
+![Pytorch version](https://img.shields.io/badge/pytorch-v2.4.1+cu118-red) 
+![ScikitLearn version](https://img.shields.io/badge/scikitlearn-v1.5.2-blue)
 
 First make sure you have install PyTorch with CUDA support, because it will take forever for training BERT model. 
 ```bash
@@ -122,13 +126,14 @@ this is the performance of my laptop during model training.
 
 The results I have obtained are quite satisfying with the following outcomes (note that this project is still in development) :
 
-Accuracy: 0.90118
+![Accuracy](https://img.shields.io/badge/Accuracy-0.90118-black)
 
-Precision: 0.8832453423991299
+![Precision](https://img.shields.io/badge/Precision-0.8832453423991299-black)
 
-Recall: 0.90118
+![Recall](https://img.shields.io/badge/Recall-0.90118-black) 
 
-F1-score: 0.8861208356918333
+![F1-score](https://img.shields.io/badge/F1score-0.8861208356918333-black)
+
 
 ## Features
 - Accurate classification results
@@ -138,4 +143,9 @@ F1-score: 0.8861208356918333
 ## Authors
 
 <img alt="Static Badge" src="https://img.shields.io/badge/AgungHari-black?style=social&logo=github&link=https%3A%2F%2Fgithub.com%2FAgungHari">
+
+## License
+
+<img alt="GitHub License" src="https://img.shields.io/github/license/AgungHari/TinyBERT-Enhanced-Chat-System-for-Mobile-Legends">
+
 
