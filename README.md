@@ -1,7 +1,7 @@
 
 # TinyBERT Enhanced Chat System for Mobile Legends
 
-At this moment Moonton should have hired me. I developed a TinyBERT-powered chat moderation system for Mobile Legends. It classifies in-game comments as positive, neutral, or negative, providing real-time feedback to curb toxic behavior with dynamic responses and efficient sentiment analysis, enhancing the gaming experience
+I developed a TinyBERT-powered chat moderation system for Mobile Legends. It classifies in-game comments as positive, neutral, or negative, providing real-time feedback to curb toxic behavior with dynamic responses and efficient sentiment analysis, enhancing the gaming experience
 
 This project is still under development and is expected to be completed more quickly. The approach taken will focus more on improving the dataset to produce better classification.
 ## 🎬 Demo
